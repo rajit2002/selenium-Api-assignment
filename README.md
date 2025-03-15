@@ -91,25 +91,3 @@ Sent a DELETE request to https://dummyjson.com/recipes/{id}.
 
 Verified the response confirmed the deletion.
 
-Bonus Task: API Automation
-
-We automated API tests using Postman collections.
-
-Created assertions and validations for API responses.
-
-Pending Tasks
-
-Implementing Data-Driven Testing using Apache POI for login automation.
-
-Automating API testing with Java (RestAssured).
-
-Submission Details
-
-Selenium scripts for completed tasks (File Upload, Window Handling, iFrames).
-
-Postman collection for API testing.
-
-Screenshots of successful test executions.
-
-
-
